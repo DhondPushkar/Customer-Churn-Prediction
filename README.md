@@ -52,3 +52,7 @@ Random Forest achieved the best performance with accuracy around 85%.
 - Promote long-term contracts
 - Offer loyalty discounts
 - Improve early customer engagement
+  
+## Author
+Pushkar Dhond 
+Aspairing Data analyst, Data Scientist 
